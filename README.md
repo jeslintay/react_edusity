@@ -2,4 +2,6 @@
 
 Creating React app in Vite
 
-npm run dev
+- Create .env file to store API key required from Web3Forms
+
+- npm run dev
